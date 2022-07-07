@@ -1,0 +1,51 @@
+{
+    "lanes": [
+      {
+        "id": "To Do",
+        "title": "To Do",
+        "style": {
+          "width": 280
+        },
+        "cards": [
+          {
+            "id": "1",
+            "title": "Học Javascript",
+            "label": "15 mins"
+          },
+          {
+            "id": "2",
+            "title": "Học Java",
+            "label": "15 mins"
+          },
+          {
+            "id": "3",
+            "title": "Học Angular",
+            "label": "15 mins"
+          }
+        ]
+      },
+      {
+        "id": "WIP",
+        "title": "In Progress",
+        "style": {
+          "width": 280
+        },
+        "cards": [
+          {
+            "id": "1",
+            "title": "Học Javascript",
+            "label": "15 mins"
+          }
+        ]
+      },
+      {
+        "id": "DONE",
+        "title": "DONE",
+        "style": {
+          "width": 280
+        },
+        "cards": []
+      }
+    ]
+  }
+  
